@@ -1,4 +1,4 @@
-``` c
+```c
 #include <Pixy2.h>
 #include <PIDLoop.h>
 #include <ZumoMotors.h>
