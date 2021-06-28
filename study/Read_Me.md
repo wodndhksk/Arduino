@@ -82,9 +82,6 @@
 
 ### 시연 영상 링크
 ```
-[클릭시 시연영상으로 이동](https://youtube/wEXscKJdYp0)
-
-[유튜브](https://youtu.be/wEXscKJdYp0)
-//https://youtu.be/wEXscKJdYp0
+https://www.youtube.com/watch?v=wEXscKJdYp0
 ```
 
